@@ -1,0 +1,7 @@
+[package]
+name = "rustybot"
+version = "0.1.0"
+authors = ["Sven Mueller <mueller@synyx.de>"]
+
+[dependencies]
+irc = "0.11.0"
